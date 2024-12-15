@@ -1,55 +1,74 @@
-**Аннотация**
+Авторы: Arsen Suranov(arsen.suranov@alatoo.edu.kg),Turatbek Torobekov(turatbek.torobekov@alatoo.edu.kg), Gimaletdinova Gulnaz(gulnaz.gimaletdinova@alatoo.edu.kg)
 
-В данной исследовательской работе рассматривается влияние музыкальных предпочтений на эмоциональное восприятие у молодежи Кыргызстана. Мы проанализировали данные, собранные среди 56 респондентов в возрасте от 16 до 55 лет, чтобы выявить взаимосвязь между возрастом, полом и эмоциональными реакциями на различные музыкальные жанры. Результаты показывают, что жанры музыки, такие как поп и рэп, вызывают более положительные эмоции, в то время как классическая музыка ассоциируется с ностальгией. Данные могут быть полезны для музыкальных продюсеров и исследователей в области психологии музыки.
+**Abstract**
 
+This research paper examines the influence of musical preferences on emotional perception among young people in Kyrgyzstan. We analyzed data collected from 56 respondents aged 16 to 55 to identify the relationship between age, gender and emotional reactions to various musical genres. The results show that genres of music such as pop and rap evoke more positive emotions, while classical music is associated with nostalgia. The data can be useful for music producers and researchers in the field of music psychology.
 
-**Введение**
+References:
 
-Музыка является важной частью жизни людей и может оказывать значительное влияние на их эмоции и настроение. В условиях современного мира, где разнообразие музыкальных жанров и платформ для их прослушивания растет, важно понять, как эти факторы влияют на эмоциональное восприятие. Мы выбрали эту тему, чтобы исследовать, как возраст и пол слушателей коррелируют с их музыкальными предпочтениями и эмоциями, которые они испытывают при прослушивании музыки.
+Shaiakhmetov, Dim, et al. "Criteria for Assessing the Quality of Educational Games and Their Impact on Student Learning Outcomes." Proceedings of the International Conference on Computer Systems and Technologies 2024. 2024.
 
-Данные были собраны с помощью опроса, который проводился среди студентов и молодежи в различных регионах Кыргызстана. Опрос включал вопросы о возрасте, поле, музыкальных предпочтениях, частоте прослушивания музыки и эмоциях, которые вызывают музыкальные произведения.
+Shaiakhmetov, Dim, et al. "Morphological classification of galaxies using SpinalNet." 2021 16th International Conference on Electronics Computer and Computation (ICECCO). IEEE, 2021.
 
+Toktosunova, Akbiike, et al. "Developing an Artificial Intelligence Tool for Image Generation Using a Unique Dataset with Image-to-Image Functionality." Proceedings of the International Conference on Computer Systems and Technologies 2024. 2024.
 
-**Методы**
+Sadriddin, Zuhra, Remudin Reshid Mekuria, and Mekia Shigute Gaso. "Machine Learning Models for Advanced Air Quality Prediction." Proceedings of the International Conference on Computer Systems and Technologies 2024. 2024.
 
-Для сбора данных был разработан опросник, который включал следующие вопросы:
+Gaso, Mekia Shigute, et al. "Utilizing Machine and Deep Learning Techniques for Predicting Re-admission Cases in Diabetes Patients." Proceedings of the International Conference on Computer Systems and Technologies 2024. 2024.
 
-Ваш пол: Мужчина / Женщина / Другой
-Ваш возраст: до 18 / 18–24 / 25–34 / 35–44 / 45–54 / 55 и старше
-Как часто вы слушаете музыку?: Редко / Несколько раз в месяц / Несколько раз в неделю / Ежедневно
-Какой жанр музыки вы предпочитаете?: Поп / Рок / Рэп / Классика / Другой
-Какие эмоции чаще всего вызывает у вас музыка?: Радость / Грусть / Вдохновение / Ностальгия / Другие
-Опрос был распространен через социальные сети (Instagram, Facebook) и мессенджеры (WhatsApp, Telegram), что позволило охватить широкую аудиторию. В итоге было получено 56 ответов.
-
-Для анализа данных мы использовали следующие статистические методы:
-
-Группировка и подсчет частоты: для определения распространенности музыкальных предпочтений и эмоций.
-Визуализация данных: с помощью библиотек Python, таких как pandas и seaborn, для создания графиков и диаграмм.
+Comparison and Selection of an Edge Detection Filters for ECG Applications
+Dim Shaiakhmetov, Mohd. Tauheed Khan, Gulnaz Gimaletdinova 
+Alatoo Academic Studies 23 (1), 509 - 519
 
 
-**Результаты**
 
-Результаты нашего анализа показали, что:
+**Introduction**
 
-Возраст: Наиболее активные слушатели музыки находятся в возрастной группе 18–24 года (56% респондентов), которые предпочитают слушать музыку ежедневно (70%).
-Пол: Мужчины чаще выбирают жанры, такие как рэп (30%) и рок (25%), в то время как женщины склонны предпочитать поп-музыку (45%) и классику (20%).
-Эмоции:
-65% респондентов отметили, что музыка вызывает у них радость.
-40% респондентов указали, что музыка вдохновляет их.
-25% респондентов испытывают ностальгию при прослушивании классической музыки.
+Music is an important part of people's lives and can have a significant impact on their emotions and mood. In the modern world, where the variety of musical genres and platforms for listening to them is growing, it is important to understand how these factors affect emotional perception. We chose this topic to explore how listeners' age and gender correlate with their musical preferences and the emotions they experience when listening to music.
+
+The data were collected through a survey conducted among students and youth in various regions of Kyrgyzstan. The survey included questions about age, gender, musical preferences, the frequency of listening to music and the emotions that musical works evoke.
 
 
-График 1: Взаимосвязь возраста и частоты прослушивания музыки
+**Methods**
+
+A questionnaire was developed to collect the data, which included the following questions:
+
+Your Gender: Male / Female / Other
+Your age: up to 18 / 18-24 / 25-34 / 35-44 / 45-54 / 55 and older
+How often do you listen to music?: Rarely / Several times a month / Several times a week / Daily
+What genre of music do you prefer?: Pop / Rock / Rap / Classical / Other
+What emotions do music most often evoke in you?: Joy / Sadness / Inspiration / Nostalgia / Others
+Facebook Instagram and instant messengers (WhatsApp, Telegram) were used to distribute the survey, which allowed reaching a wide audience. As a result, 56 responses were received.
+
+To analyze the data, we used the following statistical methods:
+
+Grouping and frequency counting: to determine the prevalence of musical preferences and emotions.
+Data Visualization: Using Python libraries such as pandas and seaborn to create graphs and charts.
+
+
+**Results**
+
+The results of our analysis showed that:
+
+Age: The most active music listeners are in the 18-24 age group (56% of respondents), who prefer to listen to music daily (70%).
+Gender: Men are more likely to choose genres such as rap (30%) and rock (25%), while women tend to prefer pop music (45%) and classics (20%).
+Emotions:
+65% of respondents noted that music makes them happy.
+40% of respondents indicated that music inspires them.
+25% of respondents feel nostalgic when listening to classical music.
+
+
+Graph 1: The relationship between age and frequency of listening to music
 ![download](https://github.com/user-attachments/assets/84f38d60-b505-4c58-85da-5a2e938dbc9e)
 
-График 2: Эмоции от прослушивания музыки по полу
+Graph 2: Emotions from listening to music by gender
 ![download](https://github.com/user-attachments/assets/6e81f2e8-03bc-4ca6-bf7f-023956e502b2)
 
-График 3: Частота музыкальных предпочтений по возрасту
+Graph 3: Frequency of musical preferences by age
 ![download](https://github.com/user-attachments/assets/158a01a8-c968-4c52-a686-7a617b21cbbe)
 
-**Обсуждение**
+**Discussion**
 
-Полученные результаты подтверждают, что музыкальные предпочтения и эмоциональное восприятие музыки варьируются в зависимости от возраста и пола. Например, молодые люди (18–24 года) чаще слушают музыку ежедневно и выбирают более современные жанры, такие как поп и рэп, которые ассоциируются с положительными эмоциями. В то время как более старшие респонденты могут предпочитать классику, которая вызывает ностальгические чувства.
+The results confirm that musical preferences and emotional perception of music vary depending on age and gender. For example, young people (18-24 years old) are more likely to listen to music daily and choose more modern genres such as pop and rap, which are associated with positive emotions. While older respondents may prefer classics that evoke nostalgic feelings.
 
-Однако следует учитывать, что данные были собраны в рамках ограниченного круга респондентов, что может повлиять на обобщаемость результатов. Кроме того, опрос не учитывал влияние культурных
+However, it should be borne in mind that the data were collected within a limited range of respondents, which may affect the generalizability of the results. In addition, the survey did not take into account the impact of cultural
